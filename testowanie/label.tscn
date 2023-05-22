@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bl83bj8drddxj"]
+
+[node name="Label" type="Label"]
+offset_left = 476.0
+offset_top = 293.0
+offset_right = 582.0
+offset_bottom = 319.0
+text = "Witaj Świecie!"
+horizontal_alignment = 1
